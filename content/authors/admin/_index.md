@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junhui Zhou
+title: Junhui Zhou (周军会)
 
 # Full Name (for SEO)
 first_name: Junhui
