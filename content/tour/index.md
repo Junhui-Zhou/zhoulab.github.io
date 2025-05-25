@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Developmental Biology of Strawberry & Germplasm Innovation Research Group
+      - title: 👋 Welcome to the DBSGI Research Group!!
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,22 +18,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: 👋 Welcome to the DBSGI Research Group!!
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: strb2.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 👋 Welcome to the DBSGI Research Group!!
+        content: 'Our research focus on both strawberry and rasperberry~ '
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: strb3.jpg
             filters:
               brightness: 0.5
           position: center
