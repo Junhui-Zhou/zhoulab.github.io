@@ -71,4 +71,4 @@ user_groups:
 
 Yan Sun is an Administrative Assistant at the DBSGI Research Group. Her job responsibilities include the administrative management of the DBSGI laboratory, including personnel allocation, consumable management, and resource garden material management.
 
-**孙妍**是草莓发育生物学与种质资源创新实验室的行政助理。我的工作职责包括DBSGI实验室的行政事务管理，包括人员分配，材料申报，耗材管理和资源圃材料管理。
+**孙妍**是草莓发育生物学与种质资源创新实验室的行政助理。她的工作职责包括DBSGI实验室的行政事务管理，包括人员分配，材料申报，耗材管理和资源圃材料管理。
