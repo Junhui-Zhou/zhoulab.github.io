@@ -77,7 +77,7 @@ Our research group takes forest strawberry, cultivated strawberry and raspberry 
 (2). Molecular mechanism of strawberry and raspberry fruit quality regulation, creation of new germplasm of high-quality fruits; 
 (3). The pathogenic mechanism of the main fungal diseases of strawberry (gray mold, powdery mildew) and the development of molecular disease resistance breeding strategies; 
 (4) Analysis of the molecular mechanism of the development of various characteristic traits (spines, fruit pits, etc.) in the development of raspberry, which will promote the germplasm innovation and industrial development of raspberry in China; 
-(5). Optimization and application of gene editing system for horticultural crops; Development of molecular design breeding strategy for strawberry and raspberry based on gene editing.
+(5). Optimization and application of gene editing system for horticultural plants; Development of molecular design breeding strategy for strawberry and raspberry based on gene editing.
 
 Welcome doctoral and master's students and young scholars who are interested in the research of the research group to join us and develop together!
 Email: junhui.zhou@pku-iaas.edu.cn
