@@ -23,9 +23,9 @@ sections:
         country: China
         country_code: CHN
       coordinates:
-        latitude: '36.510835'
-        longitude: '119.429397'
-      directions: B204
+        latitude: '36.503414'
+        longitude: '119.422777'
+      directions: PKU-IAAS B204
       office_hours:
         - 'Monday-Friday 8:30 to 18:00'
       #appointment_url: 'https://calendly.com'
