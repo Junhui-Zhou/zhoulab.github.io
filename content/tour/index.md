@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: strb1.jpg
+            filename: all_persons.jpg
             filters:
               brightness: 0.7
           position: right
