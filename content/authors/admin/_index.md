@@ -69,7 +69,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- Researchers
-  - Principal Investigator
+  - Administrative Assistants
 ---
 
 Our research group takes forest strawberry, cultivated strawberry and raspberry as the main research objects, and the current main research work is as follows: 
