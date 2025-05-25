@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administrative Assistants
+  - Principal Investigator
 ---
 
 Yan Sun is an Administrative Assistant at the DBSGI Research Group. Her job responsibilities include the administrative management of the DBSGI laboratory, including personnel allocation, consumable management, and resource garden material management.
