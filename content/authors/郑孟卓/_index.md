@@ -22,10 +22,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on bioinformatic applications in *Rubus* breeding, such as T2T genome assembly, Pangenome Graph Analysis and Population Genetics.
+bio: My research interests focus on bioinformatic applications in *Rubus* breeding, such as T2T Genome Assembly, Pangenome Graph Analysis and Population Genetics.
 
 interests:
-  - T2T genome assembly
+  - T2T Genome Assembly
   - Pangenome Graph Analysis 
   - Population Genetics
 
@@ -75,6 +75,6 @@ user_groups:
   - Research Assistants
 ---
 
-Mengzhuo Zheng is a Research Assistant of bioinformatics at the DBSGI Research Group. His research interests focus on bioinformatic applications in *Rubus* breeding, such as T2T genome assembly, Pangenome Graph Analysis and Population Genetics.
+Mengzhuo Zheng is a Research Assistant of bioinformatics at the DBSGI Research Group. His research interests focus on bioinformatic applications in *Rubus* breeding, such as T2T Genome Assembly, Pangenome Graph Analysis and Population Genetics.
 
-**郑孟卓**是草莓发育生物学与种质资源创新实验室的生物信息学研究助理。他的研究兴趣集中在悬钩子属育种中的生物信息学应用，例如T2T基因组组装、泛基因组图分析和群体遗传学。
+**郑孟卓**是草莓发育生物学与种质资源创新实验室的生物信息学研究助理。他的研究兴趣集中在悬钩子属育种中的生物信息学应用，例如T2T基因组组装、图形泛基因组分析和群体遗传学。
