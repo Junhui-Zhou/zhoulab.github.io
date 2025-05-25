@@ -69,7 +69,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- Researchers
-  - Administrative Assistants
+  - Principal Investigator
 ---
 
 Our research group takes forest strawberry, cultivated strawberry and raspberry as the main research objects, and the current main research work is as follows: 
@@ -79,5 +79,15 @@ Our research group takes forest strawberry, cultivated strawberry and raspberry 
 (4) Analysis of the molecular mechanism of the development of various characteristic traits (spines, fruit pits, etc.) in the development of raspberry, which will promote the germplasm innovation and industrial development of raspberry in China; 
 (5). Optimization and application of gene editing system for horticultural plants; Development of molecular design breeding strategy for strawberry and raspberry based on gene editing.
 
+我们的研究小组以森林草莓、栽培草莓和覆盆子为主要研究对象，目前主要的研究工作如下：
+(1). 草莓肉质果实发育起始的遗传机制以及蔷薇科水果作物肉质果实的发育多样性；
+(2). 草莓和覆盆子果实品质调控的分子机制，新型高质量水果的种质创制；
+(3). 草莓主要真菌病害（灰霉病、白粉病）的致病机制及分子抗病育种策略的开发；
+(4). 树莓在发育过程中各种特征性状（刺、果核等）的发育分子机制分析，促进中国覆盆子的种质创新和产业发展；
+(5). 园艺植物基因编辑系统的优化与应用；开发分子设计育种策略。
+
 Welcome doctoral and master's students and young scholars who are interested in the research of the research group to join us and develop together!
+
+欢迎对DBSGI研究小组研究感兴趣的博士和硕士学生以及年轻学者加入我们，共同发展！
+
 Email: junhui.zhou@pku-iaas.edu.cn
