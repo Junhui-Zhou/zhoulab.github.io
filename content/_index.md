@@ -11,7 +11,7 @@ sections:
         DBSGI
         Research Group
       image:
-        filename: rubus1.jpg
+        filename: rubus1_intro.jpg
       text: |
         <br>
         
