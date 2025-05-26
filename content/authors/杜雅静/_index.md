@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yajing Du (杜雅静)
+title: Jingya Du (杜静雅)
 
 # Full name (for SEO)
-first_name: Yajing
+first_name: Jingya
 last_name: Du
 
 # Username (this should match the folder name)
@@ -70,6 +70,6 @@ user_groups:
   - Research Assistants
 ---
 
-Yajing Du is a Research Assistant at the DBSGI Research Group. Her job responsibilities include efficient genetic transformation and optimization of diploid wild strawberry.
+Jingya Du is a Research Assistant at the DBSGI Research Group. Her job responsibilities include the creation and in vitro preservation of tissue culture seedlings of strawberry germplasm resources, and the construction and optimization of the diploid wild strawberry genetic transformation system.
 
-**杜雅静**是草莓发育生物学与种质资源创新实验室的科研助理，她的工作职责包括二倍体野生草莓高效遗传转化及优化等。
+**杜静雅**是草莓发育生物学与种质资源创新实验室的科研助理。她的工作职责包括草莓种质资源的组培苗创制与离体保存，并开展二倍体野生草莓遗传转化体系的构建与优化工作。
