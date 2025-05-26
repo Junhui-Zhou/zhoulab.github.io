@@ -25,7 +25,7 @@ organizations:
 bio: My research interests focus on molecular mechanisms of the interaction between strawberry and powdery mildew.
 
 interests:
-  - molecular mechanisms of the interaction between strawberry and powdery mildew
+  - Molecular mechanisms of the interaction between strawberry and powdery mildew
 
 education:
   courses:
