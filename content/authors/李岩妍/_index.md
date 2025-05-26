@@ -72,6 +72,6 @@ user_groups:
   - Research Assistants
 ---
 
-Yue Cai is a Research Assistant of tissue culture at the DBSGI Research Group. Her job mainly includes the creation and preservation of tissue culture seedlings of strawberry germplasm materials, as well as the genetic transformation of diploid wild strawberry and the establishment of strawberry suspension cell lines.
+Yanyan Li is a Research Assistant of tissue culture at the DBSGI Research Group. Her job mainly includes the creation and preservation of tissue culture seedlings of strawberry germplasm materials, as well as the genetic transformation of diploid wild strawberry and the establishment of strawberry suspension cell lines.
 
 **李岩妍**是草莓发育生物学与种质资源创新实验室的科研助理，她的工作主要包括草莓种质材料的组培苗创制与保存，以及二倍体野生草莓的遗传转化和草莓悬浮细胞系的建立。
