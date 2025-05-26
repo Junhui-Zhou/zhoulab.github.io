@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: M.Sc. in Botany
-      institution: Shenyang Agricultural University
+      institution: Guizhou Normal University
       year: 2024
     - course: B.Ag. in Horticulture
       institution: Guizhou Normal University
