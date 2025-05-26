@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: Ph.D. Candidate in Forestry
-      institution: Central South University of Forestry and Technology
+      institution: Beijing Forestry University
       year: up-to-now
     - course: M.Ag.
       institution: Central South University of Forestry and Technology
