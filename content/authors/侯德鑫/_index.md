@@ -68,9 +68,9 @@ email: '1700713321@qq.com'
 user_groups:
   #- Researchers
   #- Visitors
-  - Master degree candidates
+  - Master Degree Candidates
 ---
 
-Dexin Hou is a Master degree candidates at DBSGI Research Group (jointly-trained with Shandong Agricultural University). His research interests focus on molecular mechanism of strawberry hardness and heat tolerance of strawberries.
+Dexin Hou is a Master Degree Candidate at DBSGI Research Group (jointly-trained with Shandong Agricultural University). His research interests focus on molecular mechanism of strawberry hardness and heat tolerance of strawberries.
 
 **侯德鑫**是草莓发育生物学与种质资源创新实验室的联合培养硕士生（山东农业大学）。他的研究兴趣集中在草莓硬度分子机制及草莓耐热分子机制。

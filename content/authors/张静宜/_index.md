@@ -1,42 +1,40 @@
 ---
 # Display name
-title: Daqi Liu (刘大琦)
+title: Jingyi Zhang (张静宜)
 
 # Full name (for SEO)
-first_name: Daqi
-last_name: Liu
+first_name: Jingyi
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - 刘大琦
+  - 张静宜
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master degree candidates
+role: Visitor
 
 # Organizations/Affiliations
 organizations:
-  - name: Shandong Agricultural University
+  - name: Southwest University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on accumulation of sugar in strawberry fruits, molecular mechanism of raspberry seed  and molecular mechanism of raspberry metabolism of ellagic acid
+bio: My research interests focus on Mechanisms Related to the Development of Pear Fruit Calyx Segments.
 
 interests:
-  - Accumulation of sugar in strawberry fruits 
-  - Molecular mechanism of raspberry seed 
-  - Molecular mechanism of raspberry metabolism of ellagic acid
+  - Mechanisms Related to the Development of Pear Fruit Calyx Segments
 
 education:
   courses:
-    - course: M.Ag Candidate in Agriculture
-      institution: Shandong Agriculture University
+    - course: Ph.D. Candidate in Horticulture
+      institution: Southwest University
       year: up-to-now
-    - course: B.Ag. in Agriculture
-      institution: Shandong Agriculture And Engineering University
-      year: 2020
+    - course: B.Ag. in Horticulture
+      institution: Southwest University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:17864995763@163.com'
+    link: 'mailto:935517181@qq.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -62,16 +60,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '17864995763@163.com'
+email: '935517181@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   #- Researchers
   #- Visitors
-  - Master Degree Candidates
+  - Visitors
 ---
 
-Daqi Liu is a Master Degree Candidate at DBSGI Research Group (jointly-trained with Shandong Agricultural University). His research interests focus on accumulation of sugar in strawberry fruits, molecular mechanism of raspberry seed  and molecular mechanism of raspberry metabolism of ellagic acid
+Sufang Li is a visiting student at DBSGI research group, currently majoring in Forest Cultivation at Beijing Forestry University. Her research topic is the study of sepal development in pear fruit, mainly studying oral genes and expression profiles during sepal development through integrated single-cell and spatial sequencing.
 
-**刘大琦**是草莓发育生物学与种质资源创新实验室的联合培养硕士生（山东农业大学）。他的研究兴趣集中在草莓果实糖分积累，树莓果核分子机制以及树莓代谢鞣花酸分子机制。
+**张静宜**是草莓发育生物学与种质资源创新实验室的访问学生。她的研究课题是梨果萼片发育的相关机制研究，主要通过联合单细胞和空间转录组测序，探究萼片发育过程中的细胞分化和基因表达轨迹。

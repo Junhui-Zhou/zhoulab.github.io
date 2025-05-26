@@ -17,7 +17,7 @@ sections:
           - Ph.D. Candidates
           - Administrative Assistants
           - Research Assistants
-          - Master degree candidates
+          - Master Degree Candidates
           - Technicians
           - Researchers
           - Grad Students
