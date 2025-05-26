@@ -26,7 +26,7 @@ bio: My research interests focus on the interaction mechanism between strawberri
 
 interests:
   - Interaction mechanism between strawberries and pathogenic fungi; 
-  - Disease-resistant genes in strawberries and disease resistance mechanisms; 
+  - Screening disease-resistant genes in strawberries and exploration of gene functions;
   - Creation of new germplasm for disease-resistant strawberries.
 
 education:
@@ -75,6 +75,6 @@ user_groups:
   - Assistant Investigators
 ---
 
-Lijing Ma is an Assistant Investigator at the DBSGI Research Group. Her research direction mainly focuses on discovering strawberry disease-resistant genes through forward genetics and reverse genetics, and analyzing their functional mechanisms, and ultimately using gene editing to create new disease-resistant strawberry varieties to solve the difficulties in improving strawberry disease resistance and yield.
+Lijing Ma is an Assistant Investigator at the DBSGI Research Group. Her research mainly focuses on discovering strawberry disease-resistant genes through forward and reverse genetics, decdeciphering their functional mechanisms. Ultimately, creating new disease-resistant strawberries with high-quality by genome editing.
 
 **马利菁**是草莓发育生物学与种质资源创新实验室的助理研究员。她的研究方向主要是通过正向遗传与反向遗传学，挖掘草莓抗/感病基因，并解析其作用机理，最终借助基因编辑创建抗病草莓新种质，解决草莓抗病和产量协同改良困难的问题。
