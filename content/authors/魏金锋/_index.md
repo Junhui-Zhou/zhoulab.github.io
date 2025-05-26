@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhimin Ma (马志敏)
+title: Jinfeng Wei (魏金锋)
 
 # Full name (for SEO)
-first_name: Zhimin
-last_name: Ma
+first_name: Jinfeng
+last_name: Wei
 
 # Username (this should match the folder name)
 authors:
-  - 马志敏
+  - 魏金锋
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on the molecular mechanisms of strawberry fruit development, multi-omics analysis reveals the mechanism of fruit development initiation and application of gene editing technology in strawberry.
+bio: My research interests focus on the molecular mechanisms of strawberry fruit development.
 
 interests:
   - Molecular mechanisms of strawberry fruit development
-  - Multi-omics analysis reveals the mechanism of fruit development initiation
-  - Application of gene editing technology in strawberry
 
 education:
   courses:
@@ -69,9 +67,9 @@ email: 'ma_zhimin@163.com'
 user_groups:
   #- Researchers
   #- Visitors
-  - Assistant Investigators
+  - Research Associates
 ---
 
-Zhimin Ma is an Assistant Investigator at the DBSGI Research Group. She aspires to unveil the 'berry'-hidden wonders through molecular biology.
+Zhimin Ma is a Research Associate at the DBSGI Research Group. She aspires to unveil the 'berry'-hidden wonders through molecular biology.
 
-**马志敏**是草莓发育生物学与种质资源创新实验室的助理研究员，她的的工作职责旨在利用分子生物，揭示“莓”好奥秘。
+**马志敏**是草莓发育生物学与种质资源创新实验室的助理研究员，她的愿望是利用分子生物，揭示“莓”好奥秘。
