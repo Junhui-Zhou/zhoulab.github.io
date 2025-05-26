@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: M.Sc.
+    - course: B.Sc.
       institution: Weifang Institute of Technology
       year: 2024
 
@@ -70,4 +70,4 @@ user_groups:
 
 Ziqi Han is a technician at the DBSGI Research Group. Her job responsibilities include the creation of genetic resources for resistance to *Botrytis cinerea* and the genetic analysis of functional genes
 
-**韩紫绮**是草莓发育生物学与种质资源创新实验室的科研助理。她的工作职责包括抗灰霉病遗传资源创制及功能基因的遗传解析。
+**韩紫绮**是草莓发育生物学与种质资源创新实验室的技术员。她的工作职责包括抗灰霉病遗传资源创制及功能基因的遗传解析。
