@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-    - course: M.Sc.
+    - course: M.Ag in Agriculture.
       institution: Yangzhou University
       year: 2021
-    - course: B.Sc.
+    - course: B.Ag. in Agriculture
       institution: Qingdao Agricultural University
       year: 2018
 
