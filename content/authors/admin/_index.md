@@ -72,18 +72,18 @@ user_groups:
   - Principal Investigator
 ---
 
-Our research group takes forest strawberry, cultivated strawberry and raspberry as the main research objects, and the current main research work is as follows: 
-(1). Genetic mechanism of the initiation of strawberry fleshy fruit development and the developmental diversity of fleshy fruit in Rosaceae fruit crops; 
-(2). Molecular mechanism of strawberry and raspberry fruit quality regulation, creation of new germplasm of high-quality fruits; 
-(3). The pathogenic mechanism of the main fungal diseases of strawberry (gray mold, powdery mildew) and the development of molecular disease resistance breeding strategies; 
-(4) Analysis of the molecular mechanism of the development of various characteristic traits (spines, fruit pits, etc.) in the development of raspberry, which will promote the germplasm innovation and industrial development of raspberry in China; 
+**Zhou Junhui** is a principal investigator at the Peking University of Institute of Advanced Agricultural Sciences(PKU-IAAS), leading the Developmental Biology of Strawberry & Germplasm Innovation research group, focusing primarily on wild strawberries, cultivated strawberries, and raspberries. Currently, the main research interests of the DBSGI research group are as follows:<br />
+(1). Genetic mechanism of the initiation of strawberry fleshy fruit development and the developmental diversity of fleshy fruit in Rosaceae fruit crops; <br />
+(2). Molecular mechanism of strawberry and raspberry fruit quality regulation, creation of new germplasm of high-quality fruits; <br />
+(3). The pathogenic mechanism of the main fungal diseases of strawberry (gray mold, powdery mildew) and the development of molecular disease resistance breeding strategies; <br />
+(4) Analysis of the molecular mechanism of the development of various characteristic traits (spines, fruit pits, etc.) in the development of raspberry, which will promote the germplasm innovation and industrial development of raspberry in China; <br />
 (5). Optimization and application of gene editing system for horticultural plants; Development of molecular design breeding strategy for strawberry and raspberry based on gene editing.
 
-我们的研究小组以森林草莓、栽培草莓和覆盆子为主要研究对象，目前主要的研究工作如下：
-(1). 草莓肉质果实发育起始的遗传机制以及蔷薇科水果作物肉质果实的发育多样性；
-(2). 草莓和覆盆子果实品质调控的分子机制，新型高质量水果的种质创制；
-(3). 草莓主要真菌病害（灰霉病、白粉病）的致病机制及分子抗病育种策略的开发；
-(4). 树莓在发育过程中各种特征性状（刺、果核等）的发育分子机制分析，促进中国覆盆子的种质创新和产业发展；
+**周军会**是北京大学现代农业研究院的首席研究员，他所领导的草莓发育生物学与种质资源创新研究小组以森林草莓、栽培草莓和树莓为主要研究对象。目前DBSGI研究小组主要的研究工作如下：<br />
+(1). 草莓肉质果实发育起始的遗传机制以及蔷薇科水果作物肉质果实的发育多样性；<br />
+(2). 草莓和覆盆子果实品质调控的分子机制，新型高质量水果的种质创制；<br />
+(3). 草莓主要真菌病害（灰霉病、白粉病）的致病机制及分子抗病育种策略的开发；<br />
+(4). 树莓在发育过程中各种特征性状（刺、果核等）的发育分子机制分析，促进中国覆盆子的种质创新和产业发展；<br />
 (5). 园艺植物基因编辑系统的优化与应用；开发分子设计育种策略。
 
 Welcome doctoral and master's students and young scholars who are interested in the research of the research group to join us and develop together!
