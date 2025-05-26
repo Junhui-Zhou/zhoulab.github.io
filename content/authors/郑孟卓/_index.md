@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mengzhuo Zheng (郑孟卓)
+title: Mengzhuo Zheng    (郑孟卓)
 
 # Full name (for SEO)
 first_name: Mengzhuo
