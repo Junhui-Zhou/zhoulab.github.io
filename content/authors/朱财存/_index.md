@@ -70,6 +70,6 @@ user_groups:
   - Research Assistants
 ---
 
-Zhu Caicun is a Research Assistant at the DBSGI Research Group. He is mainly studying the molecular mechanism of small molecule drugs inhibiting the growth and virulence of *Botrytis cinerea*. Through chemical histone screening, he is studying the target sites of small molecules in *Botrytis cinerea*.
+Caicun Zhu is a Research Assistant at the DBSGI Research Group. He is mainly studying the molecular mechanism of small molecule drugs inhibiting the growth and virulence of *Botrytis cinerea*. Through chemical histone screening, he is studying the target sites of small molecules in *Botrytis cinerea*.
 
 **朱财存**是草莓发育生物学与种质资源创新实验室的科研助理。他的研究主要聚焦于小分子药物抑制灰霉菌（*Botrytis cinerea*）生长和毒力的分子机制，以及通过化学蛋白组学筛选、研究小分子在灰霉菌中的作用靶点。
