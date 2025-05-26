@@ -75,7 +75,7 @@ user_groups:
   - Ph.D. Candidates
 ---
 
-Xianyan Han is a Ph.D. candidate at DBSGI Research Group (jointly-trained with Chinese Academy of Agricultural Sciences). His main research focus on screening pivotal genes and decoding molecular interaction networks underlying strawberry resistance to anthracnose (Colletotrichum spp.), and developing novel disease-resistant germplasm using CRISPR/Cas9-mediated transgene-free precision editing. He is committed to bridging molecular breeding design with plant immunity theory, and actively seeks global collaborations to co-develop proprietary molecular modules for strawberry disease resistance.
+Xianyan Han is a Ph.D. candidate at DBSGI Research Group (jointly-trained with Chinese Academy of Agricultural Sciences). His main research focus on screening pivotal genes and decoding molecular interaction networks underlying strawberry resistance to anthracnose (*Colletotrichum spp.*), and developing novel disease-resistant germplasm using CRISPR/Cas9-mediated transgene-free precision editing. He is committed to bridging molecular breeding design with plant immunity theory, and actively seeks global collaborations to co-develop proprietary molecular modules for strawberry disease resistance.
 
 
 **韩先焱**是草莓发育生物学与种质资源创新实验室的联合培养博士生（中国农业科学院）。他的研究课题主要是草莓响应炭疽病候选基因挖掘与分子机制解析，并通过基因编辑技术获得无转基因成分的抗病新种质。他期待未来希望与各位同行积极沟通交流。
