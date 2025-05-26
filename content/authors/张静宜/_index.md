@@ -70,6 +70,6 @@ user_groups:
   - Visitors
 ---
 
-Sufang Li is a visiting student at DBSGI research group, currently majoring in Forest Cultivation at Beijing Forestry University. Her research topic is the study of sepal development in pear fruit, mainly studying oral genes and expression profiles during sepal development through integrated single-cell and spatial sequencing.
+Jingyi Zhang is a visiting student at DBSGI research group, currently majoring in Horticulture at Southwest University. Her research topic is the study of sepal development in pear fruit, mainly studying oral genes and expression profiles during sepal development through integrated single-cell and spatial sequencing.
 
 **张静宜**是草莓发育生物学与种质资源创新实验室的访问学生。她的研究课题是梨果萼片发育的相关机制研究，主要通过联合单细胞和空间转录组测序，探究萼片发育过程中的细胞分化和基因表达轨迹。
