@@ -78,3 +78,4 @@ Yamei Wang is a Research Assistant at the DBSGI Research Group. She is always pa
 
 ![wym1](./wym1.jpg)
 ![wym2](./wym2.jpg)
+![wym3](./wym3.jpg)
