@@ -25,7 +25,7 @@ organizations:
 bio: My research interests focus on My job responsibilities include the creation of genetic resources for *Botrytis cinerea* resistance and the genetic analysis of functional genes.
 
 interests:
-  - creation of genetic resources for *Botrytis cinerea* resistance and the genetic analysis of functional genes.
+  - Creation of genetic resources for *Botrytis cinerea* resistance and the genetic analysis of functional genes.
 
 education:
   courses:
