@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuting Guo (郭雨婷)
+title: Yuting Guo (郭雨亭)
 
 # Full name (for SEO)
 first_name: Yuting
@@ -8,7 +8,7 @@ last_name: Guo
 
 # Username (this should match the folder name)
 authors:
-  - 郭雨婷
+  - 郭雨亭
 
 # Is this the primary user of the site?
 superuser: false
@@ -71,4 +71,4 @@ user_groups:
 
 Yuting Guo is a Research Assistant of tissue culture at the DBSGI Research Group. Her job responsibilities include collection and preservation of cultivated strawberry germplasm resources, cultivated strawberry germplasm, and management of cultivated strawberry bases.
 
-**郭雨婷**是草莓发育生物学与种质资源创新实验室的植物组织培养科研助理，她的工作职责包括栽培草莓种质资源收集与保存，栽培草莓育种，栽培草莓基地管理。
+**郭雨亭**是草莓发育生物学与种质资源创新实验室的植物组织培养科研助理，她的工作职责包括栽培草莓种质资源收集与保存，栽培草莓育种以及栽培草莓基地管理。
