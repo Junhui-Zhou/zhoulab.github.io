@@ -75,6 +75,6 @@ user_groups:
   - Visitors
 ---
 
-**Li Sufang** is a visiting student at DBSGI research group, currently majoring in Forest Cultivation at Beijing Forestry University. Her research focuses mainly on the isolation and transformation of strawberry protoplasts, as well as optimizing the gene editing systems for raspberries and blueberries. In the future, she hopes to actively communicate and collaborate with colleagues to jointly advance research related to berry gene editing and germplasm innovation.
+Sufang Li is a visiting student at DBSGI research group, currently majoring in Forest Cultivation at Beijing Forestry University. Her research focuses mainly on the isolation and transformation of strawberry protoplasts, as well as optimizing the gene editing systems for raspberries and blueberries. In the future, she hopes to actively communicate and collaborate with colleagues to jointly advance research related to berry gene editing and germplasm innovation.
 
 **李素芳**是草莓发育生物学与种质资源创新实验室的访问学生，目前就读于北京林业大学森林培育学专业。她的研究方向主要是草莓原生质体分离与转化研究、树莓蓝莓基因编辑体系的优化。未来希望与各位同行积极沟通交流，共同推进浆果类基因编辑以及种质资源创新等相关研究。
