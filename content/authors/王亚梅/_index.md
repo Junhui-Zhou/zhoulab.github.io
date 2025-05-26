@@ -76,5 +76,5 @@ Yamei Wang is a Research Assistant at the DBSGI Research Group. She is always pa
 
 **王亚梅**是草莓发育生物学与种质资源创新实验室科研助理，她总是对自己的研究工作充满热情🙋，满怀期待💡，从不焦虑🌱。她说若是焦虑会自我休眠（hahahaha）。另外，她写文章时会特别想买东西，比如说曾经一次买了五个四件套和三个夏凉被。她的爱好很广泛，比如打羽毛球🎾，不过总是被虐；此外她还特别喜欢读书📖，虽然读的和科研没什么相关；哦对了，同时她也特别喜欢写作📝，一般都是记录昨天做了什么梦。另外她曾打趣地说道她还是新型三好学生获得者😎：身体好，心眼好，心态好。
 
-![wym1](/content/authors/王亚梅/wym1.jpg)
-![wym2](/content/authors/王亚梅/wym2.jpg)
+![wym1](./wym1.jpg)
+![wym2](./wym2.jpg)
