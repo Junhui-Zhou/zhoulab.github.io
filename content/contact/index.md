@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-        Welcome doctoral and master's students and young scholars who are interested in the research of the research group to join us and develop together!
+        Welcome doctoral and master's students and young scholars who are interested in the research of the DBSGI Research Group to join us and develop together!
         
-        欢迎对课题组研究感兴趣的博士硕士研究生、青年学者加盟，共同发展！
+        欢迎对DBSGI研究小组感兴趣的博士硕士研究生、青年学者加盟，共同发展！
 
       email: junhui.zhou@pku-iaas.edu.cn
       phone: 0536-6030888
@@ -23,8 +23,8 @@ sections:
         country: China
         country_code: CHN
       coordinates:
-        latitude: '36.503414'
-        longitude: '119.422777'
+        latitude: '36.50363'
+        longitude: '119.41677'
       directions: PKU-IAAS B204
       office_hours:
         - 'Monday-Friday 8:30 to 18:00'
