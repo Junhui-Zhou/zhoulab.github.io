@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Principal Investigator
           - Postdoctoral Researchers
-          - Ph.D. Candidates
           - Assistant Investigators
+          - Ph.D. Candidates
           - Administrative Assistants
           - Research Assistants
           - Master degree candidates
