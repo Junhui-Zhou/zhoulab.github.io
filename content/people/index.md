@@ -17,6 +17,7 @@ sections:
           - Assistant Investigators
           - Administrative Assistants
           - Research Assistants
+          - Master degree candidates
           - Researchers
           - Grad Students
           - Visitors
