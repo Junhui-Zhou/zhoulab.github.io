@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: 👋 Welcome to the DBSGI Research Group!!
-        content: 'Our research focus on both strawberry and rasperberry~ '
+        content: 'Our research interests focus on both strawberry and raspberry~ '
         align: right
         background:
           image:
