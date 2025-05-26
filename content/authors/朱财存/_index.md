@@ -31,10 +31,10 @@ education:
   courses:
     - course: M.Ag. in Phytopathology
       institution: Sichuan Agricultural University
-      year: 2024
+      year: 2022
     - course: B.Ag. in Agriculture
       institution: Sichuan Agricultural University
-      year: 2021
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,6 +70,6 @@ user_groups:
   - Research Assistants
 ---
 
-Zhu Caicun is a Research Assistant at the DBSGI Research Group. His job responsibilities mainly focus on analyzing the interaction mechanism between strawberry and the biotrophic obligate parasite, the strawberry powdery mildew pathogen (*Podosphaora aphanis*): 1. Finding genes that confer resistance to powdery mildew in strawberry, analyzing its disease resistance mechanism, and creating disease-resistant varieties; 2. Screening the effector proteins of the powdery mildew pathogen and analyzing its function in the pathogenic process.
+Zhu Caicun is a Research Assistant at the DBSGI Research Group. He is mainly studying the molecular mechanism of small molecule drugs inhibiting the growth and virulence of *Botrytis cinerea*. Through chemical histone screening, he is studying the target sites of small molecules in *Botrytis cinerea*.
 
-**朱财存**是草莓发育生物学与种质资源创新实验室的科研助理，他的工作职责主要聚焦于解析草莓与活体营养性专性寄生菌——草莓白粉病病原菌(*Podosphaora aphanis*)的互作机制：1.寻找草莓中抗白粉病的基因，解析其抗病机制，创建抗病品种；2. 筛选白粉病病原菌的效应蛋白，解析其在致病过程中的功能。
+**朱财存**是草莓发育生物学与种质资源创新实验室的科研助理。他的研究主要聚焦于小分子药物抑制灰霉菌（*Botrytis cinerea*）生长和毒力的分子机制，以及通过化学蛋白组学筛选、研究小分子在灰霉菌中的作用靶点。
