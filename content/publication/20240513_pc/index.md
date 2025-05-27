@@ -40,7 +40,7 @@ abstract: The inducible CRISPR activation (CRISPR-a) system offers unparalleled 
 summary: Our study expands the CRISPR toolset in plants and provides a powerful new strategy for studying gene function when constitutive expression is not feasible or ideal.
 
 tags:
-- Genome Editing
+- Source Themes
 featured: false
 
 #links:
