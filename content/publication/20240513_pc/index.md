@@ -17,7 +17,7 @@ authors:
 - Xian Deng
 - Xiaofeng Cao
 - admin
-- Xianwei Song
+- Xianwei Song 
 - Qikun Liu
 date: "2024-05-13T00:00:00Z"
 doi: ""
@@ -40,12 +40,12 @@ abstract: The inducible CRISPR activation (CRISPR-a) system offers unparalleled 
 summary: Our study expands the CRISPR toolset in plants and provides a powerful new strategy for studying gene function when constitutive expression is not feasible or ideal.
 
 tags:
-- Source Themes
+- Genome Editing
 featured: false
 
 #links:
 #- name: "An inducible CRISPR activation tool for accelerating plant regeneration"
-url: "https://www.sciencedirect.com/science/article/pii/S2590346224000439"
+#url: "https://www.sciencedirect.com/science/article/pii/S2590346224000439"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S2590346224000439
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
@@ -76,3 +76,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
