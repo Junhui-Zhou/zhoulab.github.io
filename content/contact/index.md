@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Welcome doctoral and master's students and young scholars who are interested in the research of the DBSGI Research Group to join us and develop together!
+        Welcome doctoral and master's students and young scholars who are interested in the DBSGI research group to join us and develop together!
         
         欢迎对DBSGI研究小组感兴趣的博士硕士研究生、青年学者加盟，共同发展！
 

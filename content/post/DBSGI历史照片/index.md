@@ -3,9 +3,8 @@ title: DBSGI历史照片
 date: 2025-05-20
 ---
 
-🌱【北京大学现代农业研究院DBSGI研究小组相册集】🌱
-
-🌟 [PKU-IAAS DBSGI Group: Chronicles of Berry Biology Research] 🌟
+🌱【北京大学现代农业研究院DBSGI研究小组相册集】🌱 <br />
+🌟 [Chronicles: PKU-IAAS DBSGI Group] 🌟
 
 <!--more-->
 

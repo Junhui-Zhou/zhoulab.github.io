@@ -8,6 +8,6 @@
 
 4. **Zhou J**, Sittmann J, Guo L, Xiao Y, Huang X, Pulapaka A, Liu Z. Gibberellin and auxin signaling genes RGA1 and ARF8 repress accessory fruit initiation in diploid strawberry. Plant Physiol. 2021 Apr 2;185(3):1059-1075. doi: [10.1093/plphys/kiaa087](https://pubmed.ncbi.nlm.nih.gov/33793929/). PMID: 33793929; PMCID: PMC8133647.
 
-5. Chen G, Xu P, Pan J, Li Y, **Zhou J**, Kuang H, Lian H. Inhibition of FvMYB10 transcriptional activity promotes color loss in strawberry fruit. Plant Sci. 2020 Sep;298:110578. doi: (10.1016/j.plantsci.2020.110578)[https://pubmed.ncbi.nlm.nih.gov/32771176/]. Epub 2020 Jun 24. PMID: 32771176.
+5. Chen G, Xu P, Pan J, Li Y, **Zhou J**, Kuang H, Lian H. Inhibition of FvMYB10 transcriptional activity promotes color loss in strawberry fruit. Plant Sci. 2020 Sep;298:110578. doi: [10.1016/j.plantsci.2020.110578](https://pubmed.ncbi.nlm.nih.gov/32771176/). Epub 2020 Jun 24. PMID: 32771176.
 
-6. **Zhou J**, Li D, Wang G, Wang F, Kunjal M, Joldersma D, Liu Z. Application and future perspective of CRISPR/Cas9 genome editing in fruit crops. J Integr Plant Biol. 2020 Mar;62(3):269-286. doi: (10.1111/jipb.12793)[https://pubmed.ncbi.nlm.nih.gov/30791200/]. Epub 2019 Apr 19. PMID: 30791200; PMCID: PMC6703982.
+6. **Zhou J**, Li D, Wang G, Wang F, Kunjal M, Joldersma D, Liu Z. Application and future perspective of CRISPR/Cas9 genome editing in fruit crops. J Integr Plant Biol. 2020 Mar;62(3):269-286. doi: [10.1111/jipb.12793](https://pubmed.ncbi.nlm.nih.gov/30791200/). Epub 2019 Apr 19. PMID: 30791200; PMCID: PMC6703982.
