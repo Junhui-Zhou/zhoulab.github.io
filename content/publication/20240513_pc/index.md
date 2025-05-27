@@ -31,9 +31,9 @@ tags:
 - Source Themes
 featured: false
 
- links:
- - name: "An inducible CRISPR activation tool for accelerating plant regeneration"
-   url: "https://www.sciencedirect.com/science/article/pii/S2590346224000439"
+links:
+- name: "An inducible CRISPR activation tool for accelerating plant regeneration"
+url: "https://www.sciencedirect.com/science/article/pii/S2590346224000439"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S2590346224000439
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
