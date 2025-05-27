@@ -1,71 +1,18 @@
----
-title: Contact
-date: 2022-10-24
+**Zhou Junhui** is a principal investigator at the Peking University of Institute of Advanced Agricultural Sciences(PKU-IAAS), leading the Developmental Biology of Strawberry & Germplasm Innovation research group, focusing primarily on wild strawberries, cultivated strawberries, and raspberries. Currently, the main research interests of the DBSGI research group are as follows:<br />
+1. Molecular mechanisms of fruit development in the *Rosaceae* family <br /> 
+2. Interaction mechanisms between strawberries and fungal microorganisms <br /> 
+3. Optimization and application of gene editing technology in plants like strawberries and raspberries <br /> 
+4. Molecular mechanisms of morphological development in raspberries (such as thorns and fruits) <br />
 
-type: landing
 
-sections:
-  - block: contact
-    content:
-      title: Contact
-      text: |-
-        Welcome doctoral and master's students and young scholars who are interested in the research of the DBSGI Research Group to join us and develop together!
-        
-        欢迎对DBSGI研究小组感兴趣的博士硕士研究生、青年学者加盟，共同发展！
+**周军会**是北京大学现代农业研究院的首席研究员，他所领导的草莓发育生物学与种质资源创新研究小组以森林草莓、栽培草莓和树莓为主要研究对象。目前DBSGI研究小组主要的研究工作如下：<br />
+1. 蔷薇科果实发育的分子机制 <br />
+2. 草莓与真菌微生物的互作机制 <br />
+3. 基因编辑技术在草莓树莓等作物中的优化与应用 <br />
+4. 树莓形态发育（皮刺、果实）的分子机制 <br />
 
-      email: junhui.zhou@pku-iaas.edu.cn
-      phone: 0536-6030888
-      address:
-        street: 699 Binhu Road
-        city: Weifang
-        region: Shandong
-        postcode: '261322'
-        country: China
-        country_code: CHN
-      coordinates:
-        latitude: '36.50363'
-        longitude: '119.41677'
-      directions: PKU-IAAS B204
-      office_hours:
-        - 'Monday-Friday 8:30 to 18:00'
-      #appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+Welcome doctoral and master's students and young scholars who are interested in the research of the research group to join us and develop together!
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: all_persons.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
----
+欢迎对DBSGI研究小组研究感兴趣的博士和硕士学生以及年轻学者加入我们，共同发展！
+
+Email: junhui.zhou@pku-iaas.edu.cn
