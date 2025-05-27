@@ -1,13 +1,25 @@
 ---
 title: "An inducible CRISPR activation tool for accelerating plant regeneration"
 authors:
-- Cuimei Zhang 
-- Yajun Tang 
-- Tong Li et al,
+- Cuimei Zhang
+- Yajun Tang
+- Shanjie Tang
+- Lei Chen
+- Tong Li
+- Haidi Yuan
+- Yujun Xu
+- Yangyan Zhou
+- Shuaibin Zhang
+- Jianli Wang
+- Hongyu Wen
+- Wenbo Jiang
+- Yongzhen Pang
+- Xian Deng
+- Xiaofeng Cao
 - admin
-- Xianwei Song 
+- Xianwei Song
 - Qikun Liu
-date: "2015-09-01T00:00:00Z"
+date: "2024-05-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,12 +40,12 @@ abstract: The inducible CRISPR activation (CRISPR-a) system offers unparalleled 
 summary: Our study expands the CRISPR toolset in plants and provides a powerful new strategy for studying gene function when constitutive expression is not feasible or ideal.
 
 tags:
-- Source Themes
+- Genome Editing
 featured: false
 
 #links:
 #- name: "An inducible CRISPR activation tool for accelerating plant regeneration"
-#url: "https://www.sciencedirect.com/science/article/pii/S2590346224000439"
+url: "https://www.sciencedirect.com/science/article/pii/S2590346224000439"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S2590346224000439
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
@@ -64,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
