@@ -1,5 +1,5 @@
 # Research Introduction
-![cover](../../assets/media/all_persons.jpg)
+![cover](./his4.jpg)
 
 **DBSGI**(Developmental Biology of Strawberry & Germplasm Innovation) research group is led by Dr. [Junhui Zhou](https://junhui-zhou.github.io/zhoulab.github.io/author/junhui-zhou-%E5%91%A8%E5%86%9B%E4%BC%9A/), which is affiliated with [Peking University of Institute of Advanced Agricultural University(PKU-IAAS)](https://www.pku-iaas.edu.cn/).
 
