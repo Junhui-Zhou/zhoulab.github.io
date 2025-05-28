@@ -17,9 +17,9 @@ Our team work on **strawberry** and **raspberry**, two representative *Rosaceae*
 **3).** 开发新的基因组编辑工具（Prime editing、Base editing），用于草莓和树莓的基因功能研究，实现草莓和树莓的种质改良和从头驯化。<br />
 **4).** 悬钩子属植物种质资源收集及发育生物学研究。
 
-Welcome doctoral and master's students and young scholars who are interested in the DBSGI research group to join us and develop together!
+Welcome doctoral and master's students and young scholars who are interested in the **DBSGI research group** to join us and develop together!
 
-欢迎对DBSGI研究小组研究感兴趣的博士和硕士学生以及年轻学者加入我们，共同发展！
+欢迎对**DBSGI研究小组**研究感兴趣的博士和硕士学生以及年轻学者加入我们，共同发展！
 
 Email: junhui.zhou@pku-iaas.edu.cn
 

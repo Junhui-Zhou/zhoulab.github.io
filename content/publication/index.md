@@ -1,5 +1,7 @@
 # Publications
 
+**All academic publications are accessible via Dr. Zhou's ResearchGate: [https://www.researchgate.net/profile/Junhui-Zhou?ev=prf_overview](https://www.researchgate.net/profile/Junhui-Zhou?ev=prf_overview)**
+
 1. Zhang C, Tang Y, Tang S, Chen L, Li T, Yuan H, Xu Y, Zhou Y, Zhang S, Wang J, Wen H, Jiang W, Pang Y, Deng X, Cao X, **Zhou J**, Song X, Liu Q. An inducible CRISPR activation tool for accelerating plant regeneration. Plant Commun. 2024 May 13;5(5):100823. doi: [10.1016/j.xplc.2024.100823](https://pubmed.ncbi.nlm.nih.gov/38243597/). Epub 2024 Jan 18. PMID: 38243597; PMCID: PMC11121170. 
 
 2. **Zhou J**, Li M, Li Y, Xiao Y, Luo X, Gao S, Ma Z, Sadowski N, Timp W, Dardick C, Callahan A, Mount SM, Liu Z. Comparison of red raspberry and wild strawberry fruits reveals mechanisms of fruit type specification. Plant Physiol. 2023 Sep 22;193(2):1016-1035. doi: [10.1093/plphys/kiad409](https://pubmed.ncbi.nlm.nih.gov/37440715/). PMID: 37440715.
