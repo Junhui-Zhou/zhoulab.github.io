@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-    - course: M.Sc. in Horticulture
+    - course: M.Ag. in Horticulture
       institution: Hebei Agricultural University
       year: 2023
-    - course: B.Ag. in Horticulture
+    - course: B.Eng. in Food Science
       institution: Hebei University of Science and Technology
       year: 2020
 
