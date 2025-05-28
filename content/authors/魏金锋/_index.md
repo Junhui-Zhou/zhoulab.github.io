@@ -72,4 +72,4 @@ user_groups:
 
 Jinfeng Wei is a Postdoctoral Researcher at the DBSGI Research Group. His research focuses on deciphering the molecular interplay between cultivated strawberry (Fragaria × ananassa) and the necrotrophic fungus *Botrytis cinerea*. By employing integrated multi-omics approaches (such as transcriptomics, proteomics) combined with molecular biological techniques, he aims to elucidate the molecular mechanisms of fungal effector proteins and their regulatory networks in host immune responses. Dr. Wei is actively seeking interdisciplinary collaborations to advance the discovery of disease-resistant modules and their application in precision molecular breeding strategies.
 
-**魏金锋**是草莓发育生物学与种质资源创新实验室的博士后研究员。他的研究领域包括草莓与灰霉菌（*Botrytis cinerea*）之间的互作机制，主要通过多组学技术（如转录组、蛋白质组等）结合分子生物学，以解析病原菌效应蛋白的功能及其与寄主植物的相互作用。他希望与各位同行积极交流，共同推动草莓抗病机制的研究与应用。
+**魏金锋**是草莓发育生物学与种质资源创新实验室的博士后研究员。他的研究领域包括草莓与灰霉菌（*Botrytis cinerea*）之间的互作机制，主要通过多组学技术（如转录组、蛋白质组等）结合分子生物学，以解析病原菌效应蛋白的功能及其与寄主植物的相互作用。希望与各位同行积极交流，共同推动草莓抗病机制的研究与应用。
