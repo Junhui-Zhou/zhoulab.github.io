@@ -34,7 +34,7 @@ education:
     - course: M.Ag. in Horticulture
       institution: Hebei Agricultural University
       year: 2023
-    - course: B.Eng. in Food Science
+    - course: B.Eng. in Food Science and Engineering
       institution: Hebei University of Science and Technology
       year: 2020
 
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ye.liang@pku-iaas.edu.cn'
+    link: 'mailto:1045113588@qq.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ye.liang@pku-iaas.edu.cn'
+email: '1045113588@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
