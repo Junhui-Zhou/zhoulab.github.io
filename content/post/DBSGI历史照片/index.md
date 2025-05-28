@@ -16,6 +16,10 @@ As a research group under the ​Peking University of Institute of Advanced Agri
 
 Special thanks to [​**Ms. Yamei Wang** (Research Assistant)](https://junhui-zhou.github.io/zhoulab.github.io/author/yamei-wang-%E7%8E%8B%E4%BA%9A%E6%A2%85/) and [**Ms. ​Yan Sun** (Administrative Assistant)](https://junhui-zhou.github.io/zhoulab.github.io/author/yan-sun-%E5%AD%99%E5%A6%8D/) for contributing these photographs.
 
+![his11](./his11.jpg)
+![his12](./his12.jpg)
+![his13](./his13.jpg)
+![his14](./his14.jpg)
 ![his10](./his10.jpg)
 ![his9](./his9.jpg)
 ![his8](./his8.jpg)
