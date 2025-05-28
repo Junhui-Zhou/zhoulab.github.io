@@ -34,8 +34,8 @@ education:
       institution: Shandong Agricultural University
       year: up-to-now
     - course: B.Ag. in Agriculture
-      institution: Shandong Agriculture And Engineering University
-      year: 2020
+      institution: Heze University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
