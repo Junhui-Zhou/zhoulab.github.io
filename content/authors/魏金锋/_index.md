@@ -25,16 +25,16 @@ organizations:
 bio: My research interests focus on the the interaction mechanism between strawberries and *Botrytis cinerea*.
 
 interests:
-  - interaction mechanism between strawberries and *Botrytis cinerea*
+  - Molecular Mechanisms of *Botrytis*-Strawberry Pathosystem
 
 education:
   courses:
-    - course: Ph.D. in Agriculture
+    - course: Ph.D. in Plant Pathology
       institution: Huazhong Agricultural University
       year: 2024
-    - course: B.Sc
+    - course: B.Sc. in Biotechnology
       institution: South-Central Minzu University
-      year: 2019
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
