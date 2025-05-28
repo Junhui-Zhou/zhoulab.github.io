@@ -23,6 +23,7 @@ sections:
           - Grad Students
           - Visitors
           - Alumni
+          - Previous Members
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -30,7 +31,3 @@ sections:
       show_role: true
       show_social: true
 ---
-
-# Previous Members
-
-- 梁晔：2024年5月-2025年5月 科研助理  去向：西北农林科技大学与中科院天津工业生物技术研究所联合培养博士
