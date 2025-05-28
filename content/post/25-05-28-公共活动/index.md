@@ -7,7 +7,7 @@ date: 2025-05-28
 
 <!--more-->
 
-On May 27-28, 2025, the project leaders of DBSGI research groups C, D and raspberry groups, Dr. [Junhui Zhou](https://junhui-zhou.github.io/zhoulab.github.io/author/junhui-zhou-%E5%91%A8%E5%86%9B%E4%BC%9A/) and administrative assistant Ms. [Yan Sun](https://junhui-zhou.github.io/zhoulab.github.io/author/yan-sun-%E5%AD%99%E5%A6%8D/), participated in a public event together, mainly planting strawberry seedlings and purchasing 400 raspberry plants.
+On May 27-28, 2025, Under the arragements of Dr. [Junhui Zhou](https://junhui-zhou.github.io/zhoulab.github.io/author/junhui-zhou-%E5%91%A8%E5%86%9B%E4%BC%9A/) and administrative assistant Ms. [Yan Sun](https://junhui-zhou.github.io/zhoulab.github.io/author/yan-sun-%E5%AD%99%E5%A6%8D/), C,D and raspberry group of DBGSI participated in a public event together, mainly planting strawberry seedlings and purchasing 400 raspberry plants.
 
 特别感谢各位DBSGI课题组成员的积极参与 ~
 
