@@ -3,7 +3,7 @@
 
 **DBSGI**(Developmental Biology of Strawberry & Germplasm Innovation) research group is led by Dr. [Junhui Zhou](https://junhui-zhou.github.io/zhoulab.github.io/author/junhui-zhou-%E5%91%A8%E5%86%9B%E4%BC%9A/), which is affiliated with [Peking University of Institute of Advanced Agricultural University(PKU-IAAS)](https://www.pku-iaas.edu.cn/).
 
-**DBSGI**（草莓发育生物学与种质创新）研究小组于由课题组长[周军会](https://junhui-zhou.github.io/zhoulab.github.io/author/junhui-zhou-%E5%91%A8%E5%86%9B%E4%BC%9A/) 博士领导，隶属于[北京大学现代农业大学研究院 (PKU-IAAS)](https://www.pku-iaas.edu.cn/)。
+**DBSGI**（草莓发育生物学与种质创新）研究小组于由课题组长[周军会](https://junhui-zhou.github.io/zhoulab.github.io/author/junhui-zhou-%E5%91%A8%E5%86%9B%E4%BC%9A/)博士领导，隶属于[北京大学现代农业大学研究院 (PKU-IAAS)](https://www.pku-iaas.edu.cn/)。
 
 Our team work on **strawberry** and **raspberry**, two representative *Rosaceae* species, and focus on two core aspects in fruit crops production: <u>fleshy fruit development</u> and <u>fungal pathogen diseases</u>. Our study aims to:<br /> 
 **1).** Elucidate the molecular mechanisms underlying the fleshy fruit initiation and developmental diversity in different *Rosaceae* species, which was recently found to be regulated by crosstalk among phytohormone signaling，fruit "identity" genes, and epigenetic factors;<br />
