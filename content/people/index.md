@@ -21,7 +21,7 @@ sections:
           - Technicians
           - Researchers
           - Grad Students
-          - Visitors
+          - Visiting Scholars
           - Alumni
           - Previous Members
       sort_by: Params.last_name

@@ -72,7 +72,7 @@ email: 'sufangli@bjfu.edu.cn'
 user_groups:
   #- Researchers
   #- Visitors
-  - Visitors
+  - Visiting Scholars
 ---
 
 Sufang Li is a visiting student at DBSGI research group, currently majoring in Forest Cultivation at Beijing Forestry University. Her research focuses mainly on the isolation and transformation of strawberry protoplasts, as well as optimizing the gene editing systems for raspberries and blueberries. In the future, she hopes to actively communicate and collaborate with colleagues to jointly advance research related to berry gene editing and germplasm innovation.

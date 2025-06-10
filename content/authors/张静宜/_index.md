@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visitor
+role: Visiting Scholars
 
 # Organizations/Affiliations
 organizations:

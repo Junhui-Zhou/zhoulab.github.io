@@ -2,14 +2,20 @@
 
 **All academic publications are accessible via Dr. Zhou's ResearchGate: [https://www.researchgate.net/profile/Junhui-Zhou?ev=prf_overview](https://www.researchgate.net/profile/Junhui-Zhou?ev=prf_overview)**
 
-1. Zhang C, Tang Y, Tang S, Chen L, Li T, Yuan H, Xu Y, Zhou Y, Zhang S, Wang J, Wen H, Jiang W, Pang Y, Deng X, Cao X, **Zhou J**, Song X, Liu Q. An inducible CRISPR activation tool for accelerating plant regeneration. Plant Commun. 2024 May 13;5(5):100823. doi: [10.1016/j.xplc.2024.100823](https://pubmed.ncbi.nlm.nih.gov/38243597/). Epub 2024 Jan 18. PMID: 38243597; PMCID: PMC11121170. 
+1. Han，X., #, Xia Liang, X.#, Li, D., Song, M., Ma, Z., Li, R., Meng, H., Cai, Y., Song, B., Liu, Z., Zhou, H.* and Zhou, J*. A native visual screening reporter-assisted CRISPR/Cas9 system for high-efficient genome editing in strawberry. Molecular Horticulture, https://doi.org/10.1186/s43897-025-00151-5. 
 
-2. **Zhou J**, Li M, Li Y, Xiao Y, Luo X, Gao S, Ma Z, Sadowski N, Timp W, Dardick C, Callahan A, Mount SM, Liu Z. Comparison of red raspberry and wild strawberry fruits reveals mechanisms of fruit type specification. Plant Physiol. 2023 Sep 22;193(2):1016-1035. doi: [10.1093/plphys/kiad409](https://pubmed.ncbi.nlm.nih.gov/37440715/). PMID: 37440715.
+2. Zhang, C.#, Tang, Y.#, Tang, S.#, Chen, L., Yuan, H., Xu, Y., Zhou, Y., Zhang, S., Wang, J., Wen, H., Jiang, W., Pang, Y., Deng, X., Cao, X., Zhou, J.*, Song, X.* and Liu, Q.* An Inducible CRISPR-activation tool for accelerated plant regeneration. Plant Communications, 2024. DOI:https://doi.org/10.1016/j.xplc.2024.100823 
 
-3. Ma Z, Ma L, **Zhou J**. Applications of CRISPR/Cas genome editing in economically important fruit crops: recent advances and future directions. Mol Hortic. 2023 Jan 28;3(1):1. doi: [10.1186/s43897-023-00049-0](https://pubmed.ncbi.nlm.nih.gov/37789479/). PMID: 37789479; PMCID: PMC10515014.
+3. Zhou, J. #, Li, M. #, Li, Y., Xiao, Y., Luo, X., Gao, S., Ma, Z., Sadowski, N., Timp, W., Dardick, C., Callahan, A., Mount, S., Liu, Z. (2023). Comparison of red raspberry and wild strawberry fruits reveals mechanisms of fruit type specification. Plant Physiology, kiad409. https://doi.org/10.1093 /plphys/kiad409.
 
-4. **Zhou J**, Sittmann J, Guo L, Xiao Y, Huang X, Pulapaka A, Liu Z. Gibberellin and auxin signaling genes RGA1 and ARF8 repress accessory fruit initiation in diploid strawberry. Plant Physiol. 2021 Apr 2;185(3):1059-1075. doi: [10.1093/plphys/kiaa087](https://pubmed.ncbi.nlm.nih.gov/33793929/). PMID: 33793929; PMCID: PMC8133647.
+4. Ma, Z., Ma, L., Zhou, J. (2023). Applications of CRISPR/Cas genome editing in economically important fruit crops: recent advances and future directions. Molecular Horticulture. https://molhort. biomedcentral.com/articles/10.1186/s43897-023-00049-0. 
 
-5. Chen G, Xu P, Pan J, Li Y, **Zhou J**, Kuang H, Lian H. Inhibition of FvMYB10 transcriptional activity promotes color loss in strawberry fruit. Plant Sci. 2020 Sep;298:110578. doi: [10.1016/j.plantsci.2020.110578](https://pubmed.ncbi.nlm.nih.gov/32771176/). Epub 2020 Jun 24. PMID: 32771176.
+5. Zhou, J., Sittmann, J., Guo, L., Xiao Y., Huang, X., Pulapaka, A., and Liu, Z. (2020). Gibberellin and auxin signaling genes RGA1 and ARF8 repress accessory fruit initiation in diploid strawberry. Plant Physiology, 185, 1059-1075.
 
-6. **Zhou J**, Li D, Wang G, Wang F, Kunjal M, Joldersma D, Liu Z. Application and future perspective of CRISPR/Cas9 genome editing in fruit crops. J Integr Plant Biol. 2020 Mar;62(3):269-286. doi: [10.1111/jipb.12793](https://pubmed.ncbi.nlm.nih.gov/30791200/). Epub 2019 Apr 19. PMID: 30791200; PMCID: PMC6703982.
+6. Zhou, J., Li, D., Wang, G., Wang F., Kunjal, M., Joldersma, D. and Liu, Z. (2020). Application and future perspective of CRISPR/Cas9 genome editing in fruit crops. Journal of Integrative Plant Biology, 62, 269-286. 
+
+7. Zhou, J., Wang, G. and Liu, Z. (2018). Efficient genome-editing of wild strawberry genes, vector development, and validation. Plant Biotechnology Journal, 16, 1868-1877. 
+Zhou, J., Peng, Z., Long, J., Sosso, D., Liu, B., Eom, J., Zhou, H., Huang, S., Cruz, C., Frommer, W., White, F. and Yang, B. (2015). Gene Targeting by the TAL Effector PthXo2 Reveals Cryptic Resistance Gene for Bacterial Blight of Rice. The Plant Journal, 82, 632-643. 
+
+8. Antony, G. #, Zhou, J. #, Huang, S., Li, T., Liu, B., White, F., and Yang, B. (2010). Rice xa13 Recessive Resistance to Bacterial Blight Is Defeated by Induction of the Disease Susceptibility Gene Os-11N3. The Plant Cell, 22, 3864-3876. 
+9. Zhou, J., Song Y., Zhang Y. (2008). Advancement of Late Blight Resistance Genes in Potato. Biotechnology Bulletin, 5, 13-17.
