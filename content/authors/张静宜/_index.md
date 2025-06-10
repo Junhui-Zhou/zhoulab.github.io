@@ -67,7 +67,7 @@ email: '935517181@qq.com'
 user_groups:
   #- Researchers
   #- Visitors
-  - Visitors
+  - Visiting Scholars
 ---
 
 Jingyi Zhang is a visiting student at DBSGI research group, currently majoring in Horticulture at Southwest University. Her research topic is the study of sepal development in pear fruit, mainly studying oral genes and expression profiles during sepal development through integrated single-cell and spatial sequencing.
