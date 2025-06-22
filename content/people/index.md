@@ -31,7 +31,9 @@ sections:
       show_role: true
       show_social: true
 ---
+
 # Previous Members
+
 **Yuanxin Dong**: Ph.D candidate at Northwest A&F University
 **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
 **Xia Liang**: Ph.D candidate at Beijing Forestry University
