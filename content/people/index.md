@@ -33,12 +33,32 @@ sections:
   
   - block: markdown
     content:
-      title: "Previous Members (Additional)"
+      title: ""
       text: |
-        # Previous Members
+        <center>Previous Members</center>
 
         **Yuanxin Dong**: Ph.D candidate at Northwest A&F University  
+
         **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
+
+        **Xia Liang**: Ph.D candidate at Beijing Forestry University
+
+        **Ye Liang**: Ph.D candidate at Northwest A&F University / Chinese Academy of Sciences
+
+        **Feijian Sun**: Ph.D candidate at Czech Academy of Sciences, Czech Republic
+
+        **Ruixia Li**: Ph.D candidate at Zhengzhou University
+
+        **Yan Zhang**: Ph.D candidate at Northwest A&F University
+
+        **Jihan Wang**: Ph.D candidate at Shandong University of Technology
+
+        **Bingru Li**: Ph.D candidate at Northeast Agricultural University
+
+        **Yanping Song**: Ph.D candidate at Southwest University
+
+        **Yuanxu Feng**: M. S. Candidate at Chinese Agricultural University
+
 ---
 
 # Previous Members
