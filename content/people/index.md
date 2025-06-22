@@ -30,6 +30,15 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+  
+  - block: markdown
+    content:
+      title: "Previous Members (Additional)"
+      text: |
+        # Previous Members
+
+        **Yuanxin Dong**: Ph.D candidate at Northwest A&F University  
+        **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
 ---
 
 # Previous Members
