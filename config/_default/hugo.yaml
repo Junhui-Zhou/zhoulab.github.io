@@ -5,7 +5,7 @@
 
 title: DBSGI Research Group # Website name
 #baseURL: 'https://example.com/' # Website URL 
-baseURL: 'https://dbsgi.cn/'
+#baseURL: 'https://dbsgi.cn/'
 
 ############################
 ## LANGUAGE

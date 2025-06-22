@@ -1,7 +1,7 @@
 # Recruitment 诚纳英才
 <br>
 
-![all_persons]("content/recruit/all_persons.jpg")
+![combine](./all_persons.jpg)
 
 ## 一、招聘岗位
 副研究员/助理研究员/博士后（博士学位），科研助理（硕士学位）,技术员（专科以上）。
