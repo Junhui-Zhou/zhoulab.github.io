@@ -1,22 +1,22 @@
 # Resources
 
-1) **草莓野生品种图鉴：**<br>
+1) 草莓野生品种图鉴：<br>
     - http://www.iplant.cn/info/Fragaria?t=z <br>
 <br>
-2) **VE CRISPR/Cas9 guide RNA引物设计: **<br>
+2) VE CRISPR/Cas9 guide RNA引物设计: <br>
     - https://crispr.dbcls.jp/ <br>
     - http://crispr.hzau.edu.cn/cgi-bin/CRISPR2/CRISPR <br>
 <br>
-3) **Strawberry eFP Browser: **<br>
+3) Strawberry eFP Browser: <br>
     - http://bar.utoronto.ca/efp_strawberry/cgi-bin/efpWeb.cgi?dataSource=Developmental_Map_Strawberry_Flower_and_Fruit <br>
 <br>
-4) **Web-based tools for visualizing functional genomics and other data：**<br>
+4) Web-based tools for visualizing functional genomics and other data：<br>
     - http://bar.utoronto.ca/ <br>
 <br>
-5) **森林草莓基因共表达网络分析：**<br>
+5) 森林草莓基因共表达网络分析：<br>
     - http://159.203.72.198:3838/fvesca/ <br>
 <br>  
-6) **蔷薇科基因组信息GDR：**<br>
+6) 蔷薇科基因组信息GDR：<br>
     - https://www.rosaceae.org/ <br>
 <br>
 7) 植物基因组信息PLAZA: <br>
@@ -25,7 +25,7 @@
 8) 拟南芥基因组信息TAIR: <br>
     - https://www.arabidopsis.org/ <br>
 <br>
-9) **植物基因组信息PLAZA:** <br>
+9) 植物基因组信息PLAZA: <br>
     - https://bioinformatics.psb.ugent.be/plaza/ <br>
 <br>
 10) Arabidopsis eFP brower: <br>
