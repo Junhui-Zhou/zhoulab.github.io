@@ -36,7 +36,7 @@ sections:
       title: ""
       text: |
         <center><font size="7"><b> Previous Members</b></font></center>  
-         
+        <br>
         
 
         **Yuanxin Dong**: Ph.D candidate at Northwest A&F University  
