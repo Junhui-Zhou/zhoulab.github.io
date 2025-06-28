@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The full name of **DBSGI Research Group** is Developmental Biology of Strawberry & Germplasm Innovation Research Group, which has been a center of excellence for strawberry and rasperberry research, practice and applications since its founding in 2020.
+        The full name of **DBSGI Research Group** is Developmental Biology of Strawberry & Germplasm Innovation Research Group, which has been a center of excellence for strawberry and rasperberry research, practice and applications since its founding in 2021.
   
   - block: collection
     content:
