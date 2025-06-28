@@ -47,7 +47,7 @@ sections:
 
         **Ye Liang**: Ph.D candidate at Northwest A&F University / Chinese Academy of Sciences
 
-        **Feijian Sun**: Ph.D candidate at Czech Academy of Sciences, Czech Republic
+        **Feijian Sun**: Ph.D candidate at Charles University / Institute of Experimental Botany, Czech Academy of Sciences, Czech Republic
 
         **Ruixia Li**: Ph.D candidate at Zhengzhou University
 
