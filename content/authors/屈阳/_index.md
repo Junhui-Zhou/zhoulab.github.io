@@ -25,7 +25,8 @@ organizations:
 bio: 我是草莓发育生物学与种质资源创新实验室的科研助理。我的工作主要聚焦于草莓与其专性活体寄生菌—草莓白粉菌的互作机制，以及希望开发一种基于病毒诱导的草莓可遗传基因组编辑方法。
 
 interests:
-  - 1.草莓与白粉病互作的分子机制研究；2.基于病毒诱导的草莓可遗传基因组编辑方法的开发
+  - 1.Studies on the molecular mechanisms of strawberry-powdery mildew interactions;
+  - 2.Development of a virus-induced heritable genome editing method based on strawberry
 
 
 education:

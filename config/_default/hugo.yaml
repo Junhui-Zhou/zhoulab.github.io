@@ -2,8 +2,8 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: DBSGI Research Group # Website name
+DBSGI Research Group # W
+title: ebsite name
 #baseURL: 'https://example.com/' # Website URL 
 #baseURL: 'https://dbsgi.cn/'
 
