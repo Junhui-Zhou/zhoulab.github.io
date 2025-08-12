@@ -3,7 +3,7 @@
 1) 草莓野生品种图鉴：<br>
     - http://www.iplant.cn/info/Fragaria?t=z <br>
 <br>
-2) VE CRISPR/Cas9 guide RNA引物设计: <br>
+2) Fve CRISPR/Cas9 guide RNA引物设计: <br>
     - https://crispr.dbcls.jp/ <br>
     - http://crispr.hzau.edu.cn/cgi-bin/CRISPR2/CRISPR <br>
 <br>
