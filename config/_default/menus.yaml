@@ -22,9 +22,6 @@ main:
   - name: Resources
     url: resources
     weight: 70
-  - name: IT
-    url: it
-    weight: 75
   - name: Recruit
     url: recruit
     weight: 80

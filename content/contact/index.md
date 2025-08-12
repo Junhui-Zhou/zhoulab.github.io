@@ -14,7 +14,7 @@ sections:
         欢迎对DBSGI研究小组感兴趣的博士硕士研究生、青年学者加盟，共同发展！
 
       email: junhui.zhou@pku-iaas.edu.cn
-      phone: 0536-6030888
+      phone: 0536-6030817
       address:
         street: 699 Binhu Road
         city: Weifang
