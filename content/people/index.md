@@ -39,6 +39,12 @@ sections:
         <br>
         
 
+        **Xinyu Zhai**: Ph.D candidate at Nanjing Agricultural University
+        
+        **Yuean Wang**: Ph.D candidate at Chinese Academy of Sciences
+
+        **Ye Liang**: Ph.D candidate at Northwest A&F Universit
+
         **Yuanxin Dong**: Ph.D candidate at Northwest A&F University  
 
         **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
