@@ -22,7 +22,6 @@ Welcome doctoral and master's students and young scholars who are interested in 
 欢迎对**DBSGI研究小组**研究感兴趣的博士和硕士学生以及年轻学者加入我们，共同发展！
 
 Email: junhui.zhou@pku-iaas.edu.cn
-
 ![combine](./combine1.png)]
 
 
