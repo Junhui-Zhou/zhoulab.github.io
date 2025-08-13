@@ -25,17 +25,15 @@ organizations:
 bio: My research interests focus on Molecular regulatory mechanism of the initiation of strawberry fruit development and Analysis of the molecular regulatory network of strawberry fruit quality traits.
 
 interests:
-  - Interaction mechanism between strawberry and *Botrytis cinerea*; 
-  - Molecular mechanism of raspberry flowering
+  - Developmental mechanisms of strawberry fruit
+  - Role of gene editing technology in crops
 
 education:
   courses:
-    - course: M.Ag. in Agriculture
-      institution: Nanjing Agricultural University
-      year: 2024
-    - course: B.Ag. in Agriculture
-      institution: Yangzhou University
-      year: 2021
+    - course: M.Ag. in Science
+      institution: Weifang Institute of Science and Technology
+      year: 2025
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yuean.wang@pku-iaas.edu.cn'
+    link: 'mailto:2628790502@qq.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -61,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yuean.wang@pku-iaas.edu.cn'
+email: '2628790502@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,6 +69,6 @@ user_groups:
   - Technicians
 ---
 
-Yuean Wang is a Research Assistant at the DBSGI Research Group. Her research direction mainly focuses on discovering the genes that make strawberry resistant/susceptible to *Botrytis cinerea* through reverse genetics and analyzing its molecular mechanisms, laying the foundation for breeding new disease-resistant strawberry germplasm.
+Liu Anshu is a research assistant at the Laboratory of Strawberry Developmental Biology and Germplasm Innovation. Her responsibilities include assisting in research on strawberry gene editing and crop cultivation.
 
-**王悦安**是草莓发育生物学与种质资源创新实验室的科研助理。她的研究方向主要是通过反向遗传学，挖掘草莓抗/感灰霉菌的基因，并解析其分子机理，为培育抗病的草莓新种质奠定基础。
+**刘安舒**是草莓发育生物学与种质资源创新实验室的科研助理。她的工作职责包括辅助研究草莓基因编辑及作物种植。
