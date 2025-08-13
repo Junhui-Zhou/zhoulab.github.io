@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Assistant Investigators
-          - Postdoctoral Researchers
+          - Postdoctoral Associate
           - Ph.D. Candidates
           - Administrative Assistants
           - Research Assistants
@@ -49,8 +49,6 @@ sections:
 
         **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
 
-        **Xia Liang**: Ph.D candidate at Beijing Forestry University
-
         **Ye Liang**: Ph.D candidate at Northwest A&F University / Chinese Academy of Sciences
 
         **Feijian Sun**: Ph.D candidate at Charles University / Institute of Experimental Botany, Czech Academy of Sciences, Czech Republic
@@ -66,5 +64,12 @@ sections:
         **Yanping Song**: Ph.D candidate at Southwest University
 
         **Yuanxu Feng**: M. S. Candidate at Chinese Agricultural University
+
+        Hu Duo: Ph.D candidate at Sichuan University
+
+        Shenglan Gao: Ph.D candidate at Yunnan University
+        
+        Tingting Han: Ph.D candidate at Qingdao Agricultural University
+
 
 ---
