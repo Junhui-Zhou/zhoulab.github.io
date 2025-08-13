@@ -73,6 +73,6 @@ user_groups:
   - Research Assistants
 ---
 
-Xuanru Yin is a Research Assistant at the DBSGI Research Group. Her work primarily focuses on identifying strawberry genes related to resistance or susceptibility to **Botrytis cinerea** through reverse genetics and elucidating their molecular mechanisms, laying a foundation for the development of disease-resistant strawberry germplasm.
+Xuanru Yin is a Research Assistant at the DBSGI Research Group. Her work primarily focuses on identifying strawberry genes related to resistance or susceptibility to **Botrytis cinerea** through reverse genetics and elucidating their molecular mechanisms,laying a foundation for the development of disease-resistant strawberry germplasm.
 
 **阴宣如**是草莓发育生物学与种质资源创新实验室的科研助理。她的工作主要聚焦于通过反向遗传学，挖掘草莓抗/感灰霉菌的基因，并解析其分子机理，为培育抗病的草莓新种质奠定基础。
