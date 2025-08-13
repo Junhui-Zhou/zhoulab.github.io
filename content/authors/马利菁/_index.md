@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research associate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +72,7 @@ email: 'lijing.ma@pku-iaas.edu.cn'
 user_groups:
   #- Researchers
   #- Visitors
-  - Research associate
+  - Research Associate
 ---
 
 Lijing Ma is an Assistant Investigator at the DBSGI Research Group. Her research mainly focuses on discovering strawberry disease-resistant genes through forward and reverse genetics, decdeciphering their functional mechanisms. Ultimately, creating new disease-resistant strawberries with high-quality by genome editing.

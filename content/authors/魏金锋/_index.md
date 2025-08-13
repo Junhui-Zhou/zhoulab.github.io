@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral associate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: 'jinfeng.wei@pku-iaas.edu.cn'
 user_groups:
   #- Researchers
   #- Visitors
-  - Postdoctoral associate
+  - Postdoctoral Associate
 ---
 
 **Jinfeng Wei** is a Postdoctoral Researcher at the DBSGI Research Group. His research focuses on deciphering the molecular interplay between cultivated strawberry (Fragaria × ananassa) and the necrotrophic fungus *Botrytis cinerea*. By employing integrated multi-omics approaches (such as transcriptomics, proteomics) combined with molecular biological techniques, he aims to elucidate the molecular mechanisms of fungal effector proteins and their regulatory networks in host immune responses. Dr. Wei is actively seeking interdisciplinary collaborations to advance the discovery of disease-resistant modules and their application in precision molecular breeding strategies.
