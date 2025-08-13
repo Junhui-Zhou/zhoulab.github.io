@@ -68,7 +68,7 @@ email: 'yuean.wang@pku-iaas.edu.cn'
 user_groups:
   #- Researchers
   #- Visitors
-  - Research Assistants
+  - Technicians
 ---
 
 Yuean Wang is a Research Assistant at the DBSGI Research Group. Her research direction mainly focuses on discovering the genes that make strawberry resistant/susceptible to *Botrytis cinerea* through reverse genetics and analyzing its molecular mechanisms, laying the foundation for breeding new disease-resistant strawberry germplasm.
