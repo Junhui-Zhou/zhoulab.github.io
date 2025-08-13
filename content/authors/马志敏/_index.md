@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Research Researchers
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ email: 'ma_zhimin@163.com'
 user_groups:
   #- Researchers
   #- Visitors
-  - Research Associate
+  - Research Researchers
 ---
 
 Zhimin Ma is an Assistant Investigator at the DBSGI Research Group. She aspires to unveil the 'berry'-hidden wonders through molecular biology.
