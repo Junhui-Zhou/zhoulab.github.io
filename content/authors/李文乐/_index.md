@@ -22,20 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on Creation of genetic resources and mining of functional genes for resistance to *Botrytis cinerea* in strawberry.
+bio: My research interests focuses on the molecular mechanisms of the interaction between strawberry and  *Botrytis cinerea* , as well as strawberry protoplast transformation and regeneration.
 
 interests:
-  - Creation of genetic resources and mining of functional genes for resistance to *Botrytis cinerea* in strawberry
-
+  - Molecular mechanism of the interaction between strawberry and Botrytis cinerea*
+  - Strawberry protoplast transformation and regeneration
 
 education:
   courses:
     - course: M.Ag. in Agriculture
-      institution: Yunnan Agricultural University
-      year: 2024
-    - course: B.Sc. in Science
-      institution: Shandong Agricultural University
-      year: 2021
+      institution: Gansu Agricultural University
+      year: 2022
+    - course: B.Sc. in Agriculture
+      institution: Zhejiang A&F University
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mh15564839957@163.com'
+    link: 'mailto:2799596920@qq.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mh15564839957@163.com'
+email: '2799596920@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,6 +71,5 @@ user_groups:
   - Research Assistants
 ---
 
-Han Meng is a Research Assistant at the DBSGI Research Group. Her job responsibilities include the creation of genetic resources and mining of functional genes for resistance to *Botrytis cinerea* in strawberry.
-
-**孟涵**是草莓发育生物学与种质资源创新实验室的科研助理，她的工作职责包括抗灰霉病遗传资源创制及功能基因的遗传解析。
+**Li Wenle** is a Research Assistant at the DBSGI Research Group. His responsibilities include studying the molecular mechanisms of the interaction between strawberry and *Botrytis cinerea*, as well as strawberry protoplast transformation and regeneration.
+**李文乐**是草莓发育生物学与种质资源创新实验室的科研助理，他的工作职责包括草莓与灰霉菌互作分子机制研究及草莓原生质体转化和再生。

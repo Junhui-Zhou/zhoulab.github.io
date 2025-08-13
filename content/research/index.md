@@ -27,7 +27,6 @@ Our research group focuses on *Fragaria vesca* (2n), cultivated strawberry (8n),
 
 **5).** Germplasm collection and developmental biology of Rubus genus.
 ![fig8](./fig8.png)
-
 草莓是世界上最重要的小浆果之一，其中我国的草莓种植面积和产量长期居世界首位。草莓具有生长周期相对较短(4-6月)、多年生、可以无性繁殖(匍匐茎)等特点，特别是近年来随着基因组注释的完善、转基因体系和基因编辑体系的开发，草莓逐渐发展成为研究果实发育机制、植物-微生物互作的一种模式物种。悬钩子属（Rubus）树莓具有丰富的野生种质资源且多为二倍体，基因组较小（300Mb），其果实富含SOD、鞣花酸和各种维生素，具有抗氧化、抗衰老、抗炎症、预防心血管疾病和美白皮肤等生理活性。课题组以森林草莓（2n）、栽培草莓（8n）和树莓（2n）为主要研究对象，结合多组学技术、分子生物学技术、细胞生物学技术和分子遗传学技术探究：(1). 草莓肉质果发育起始及蔷薇科果实作物肉质果发育多样性的遗传机制；(2). 草莓树莓果实品质调控的分子机制；(3). 草莓主要真菌病害（灰霉病、白粉病）的致病机理及分子抗病育种策略的开发；(4). Rubus资源收集及其各种发育性状特征的遗传机制；(5). 园艺作物基因编辑体系的优化及应用；以基因编辑为基础的草莓树莓分子设计育种策略开发。
 
 Welcome doctoral and master's students and young scholars who are interested in the **DBSGI research group** to join us and develop together!
