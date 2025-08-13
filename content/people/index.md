@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Assistant Investigators
+          - Research Associate
           - Postdoctoral Associate
           - Ph.D. Candidates
           - Administrative Assistants
