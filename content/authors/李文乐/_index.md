@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focuses on the molecular mechanisms of the interaction between strawberry and  *Botrytis cinerea* , as well as strawberry protoplast transformation and regeneration.
+bio: My research interests focuses on the molecular mechanisms of the interaction between strawberry and  *Botrytis cinerea*, as well as strawberry protoplast transformation and regeneration.
 
 interests:
   - Molecular mechanism of the interaction between strawberry and Botrytis cinerea*

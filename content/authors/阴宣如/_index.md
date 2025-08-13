@@ -22,20 +22,22 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on Molecular regulatory mechanism of the initiation of strawberry fruit development and Analysis of the molecular regulatory network of strawberry fruit quality traits.
+bio: My research interests focuses on identifying strawberry genes related to resistance or susceptibility to *Botrytis cinerea* through reverse genetics and elucidating their molecular mechanisms.
 
 interests:
-  - Molecular mechanism of interaction between strawberry and powdery mildew;
-  - Development of a virus-induced heritable genome editing method for strawberry
+  - Developmental mechanisms of strawberry and raspberry fruits;
+  - Disease-resistant breeding；
+  - Multi-omics data mining: Strong interest in utilizing existing omics data (such as transcriptomics and metabolomics) to identify key genes and verify their functions；
+  - Molecular mechanisms of flowering in raspberry.
 
 education:
   courses:
-    - course: M.Sc. in Agriculture
-      institution: Yangzhou University
-      year: 2024
+    - course: M.Sc. in Engineering
+      institution: Heze  University
+      year: ????
     - course: B.Sc. in Sciences
-      institution: Yangzhou University
-      year: 2021
+      institution: Shandong Agricultural University
+      year: ?????
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xinyu.zhai@pku-iaas.edu.cn'
+    link: 'mailto:yinxuanru@126.com'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -61,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'xinyu.zhai@pku-iaas.edu.cn'
+email: 'yinxuanru@126.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,6 +73,6 @@ user_groups:
   - Research Assistants
 ---
 
-Xinyu Zhai is a Research Assistant at the DBSGI Research Group. Her work mainly focuses on the interaction mechanism between strawberry and its obligate living parasite, Erysiphe graminis, and hopes to develop a virus-induced heritable genome editing method for strawberry.
+Xuanru Yin is a Research Assistant at the DBSGI Research Group. Her work primarily focuses on identifying strawberry genes related to resistance or susceptibility to **Botrytis cinerea** through reverse genetics and elucidating their molecular mechanisms, laying a foundation for the development of disease-resistant strawberry germplasm.
 
-**翟新羽**是草莓发育生物学与种质资源创新实验室的科研助理。她的工作主要聚焦于草莓与其专性活体寄生菌—草莓白粉菌的互作机制，以及希望开发一种基于病毒诱导的草莓可遗传基因组编辑方法。
+**阴宣如**是草莓发育生物学与种质资源创新实验室的科研助理。她的工作主要聚焦于通过反向遗传学，挖掘草莓抗/感灰霉菌的基因，并解析其分子机理，为培育抗病的草莓新种质奠定基础。
