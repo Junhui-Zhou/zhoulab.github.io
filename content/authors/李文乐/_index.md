@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Han Meng (孟涵)
+title: Wenle Li (李文乐)
 
 # Full name (for SEO)
-first_name: Han
-last_name: Meng
+first_name: Li
+last_name: Wenle
 
 # Username (this should match the folder name)
 authors:
-  - 孟涵
+  - 李文乐
 
 # Is this the primary user of the site?
 superuser: false

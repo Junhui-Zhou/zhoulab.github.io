@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Xinyu Zhai (翟新羽)
+title: Xuanru Yin (阴宣如)
 
 # Full name (for SEO)
-first_name: Xinyu
-last_name: Zhai
+first_name: Xuanru
+last_name: Yin
 
 # Username (this should match the folder name)
 authors:
-  - 翟新羽
+  - 阴宣如
 
 # Is this the primary user of the site?
 superuser: false
