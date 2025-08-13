@@ -34,10 +34,10 @@ education:
   courses:
     - course: M.Sc. in Engineering
       institution: Heze  University
-      year: ????
+      year: 2024
     - course: B.Sc. in Sciences
       institution: Shandong Agricultural University
-      year: ?????
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
