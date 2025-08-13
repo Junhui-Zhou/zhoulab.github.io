@@ -22,7 +22,7 @@ Welcome doctoral and master's students and young scholars who are interested in 
 欢迎对**DBSGI研究小组**研究感兴趣的博士和硕士学生以及年轻学者加入我们，共同发展！
 
 Email: junhui.zhou@pku-iaas.edu.cn
-![combine](./combine1.png)]
+![combine](./combine1.png)
 
 
 The **strawberry** is one of the most important small berry crops in the world, with China's cultivation area and yield ranking first globally for a long time. Strawberries have characteristics such as a relatively short growth cycle (4-6 months), being perennial, and capable of asexual reproduction (via stolons). Particularly in recent years, with advancements in genome annotation, the development of transgenic systems, and gene-editing systems, strawberries have gradually evolved into a model species for studying fruit development mechanisms and plant-microbe interactions.
