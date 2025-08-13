@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Yuean Wang (王悦安)
+title: Anshu Liu(刘安舒)
 
 # Full name (for SEO)
-first_name: Yuean
-last_name: Wang
+first_name: Anshu
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - 王悦安
+  - 刘安舒
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: technician
 
 # Organizations/Affiliations
 organizations:
