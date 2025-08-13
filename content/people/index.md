@@ -65,11 +65,11 @@ sections:
 
         **Yuanxu Feng**: M. S. Candidate at Chinese Agricultural University
 
-        Hu Duo: Ph.D candidate at Sichuan University
+        **Hu Duo**: Ph.D candidate at Sichuan University
 
-        Shenglan Gao: Ph.D candidate at Yunnan University
-        
-        Tingting Han: Ph.D candidate at Qingdao Agricultural University
+        **Shenglan Gao**: Ph.D candidate at Yunnan University
+
+        **Tingting Han**: Ph.D candidate at Qingdao Agricultural University
 
 
 ---
