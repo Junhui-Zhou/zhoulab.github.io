@@ -163,12 +163,17 @@
     - https://biobigdata.nju.edu.cn/scplantdb/home <br>
 <br>
 56)	植物单细胞marker genes PlantscRNAdb <br>
-
-
+    - https://biobigdata.nju.edu.cn/scplantdb/home <br>
 <br>
-41) 美国农业部（国外种质查询）：<br>
+57)	植物marker gene: <br>
+    - https://phytozome-next.jgi.doe.gov/blast-search  <br>
+ <br>
+58) CRISPy-web 3.0: 目前首个能够同时支持CRISPR-Cas9、CRISPRi和TnpB三大编辑系统的统一设计平台, 用户可以上传带注释的基因组文件或直接从antiSMASH获取序列，然后在Cas9和TnpB模式之间自由切换。平台支持双链断裂编辑、转录干扰（CRISPRi和TnpBi）以及碱基编辑（CRISPR-BEST和TnpB-BEST）等多种策略 <br>
+    - https://crispy.secondarymetabolites.org/#/input <br>
+<br>
+59) 美国农业部（国外种质查询）：<br>
     - https://npgsweb.ars-grin.gov/gringlobal/search <br>
 <br>
-42) Rubus分布地图查询：<br>
+60) Rubus分布地图查询：<br>
     - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000199-2 <br>
 <br>
