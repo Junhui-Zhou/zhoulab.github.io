@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Joint PhD Students
 
 # Organizations/Affiliations
 organizations:

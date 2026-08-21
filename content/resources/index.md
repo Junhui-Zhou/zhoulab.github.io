@@ -117,6 +117,55 @@
 40) Web of Science: <br>
     - https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&roaming=true <br>
 <br>
+41) MusiteDeep：a deep-learning framework for protein post-translational modification site prediction <br>
+    - https://www.musite.net/ <br>
+<br>
+42) PlantPAN：The Plant Promoter Analysis Navigator provides an informative resource for detecting transcription factor binding sites (TFBSs) <br>
+    - http://PlantPAN.itps.ncku.edu.tw <br>
+<br>
+43) Host-pathogen interactionz: <br>
+    - http://www.phi-ase.org/searchFacet.htm?queryTerm=40559 <br>
+<br>
+44) TMHMM-2.0: 跨膜结构域预测 <br>
+    - https://services.healthtech.dtu.dk/services/TMHMM-2.0/ <br>
+<br>
+45) 植物启动子motif预测: <br>
+    - http://bioinformatics.psb.ugent.be/webtools/plantcare/html/ <br>
+<br>
+46) JASPAR: 转录因子结合位点预测 <br>
+    - https://jaspar.elixir.no/ <br>
+<br>
+47)	GAS国家生物信息中心： <br>
+    - https://ngdc.cncb.ac.cn/gsa/ <br>
+<br>
+48) 植物信息检索（Rubus）： <br>
+    - https://plantaedb.com/taxa/phylum/angiosperms/order/rosales/ family/rosaceae/genus/rubus <br>
+<br>
+49)	Rubus信息志 : <br>
+    - https://plantaedb.com/taxa/phylum/angiosperms/order/rosales/ family/rosaceae/genus/rubus <br>
+<br>
+50)	GBIF is a Global Core Biodata Resource: <br>
+    - https://www.gbif.org/occurrence/search?taxon_key=2993094 <br>
+<br>
+51)	Cell旗下各种实验protocol汇总网站STAR Protocols： <br>
+    - https://www.cell.com/star-protocols/home <br>
+<br>
+52)	信号肽预测：<br>
+    - SignalP 6.0 - DTU Health Tech - Bioinformatic Services <br>
+<br>
+53)	Model图作图软件：<br>
+    - https://www.biorender.com/ <br>
+<br>
+54)	中国植物志：<br>
+    - https://www.iplant.cn/info/Rubus <br>
+<br>
+55)	植物单细胞marker genes search <br>
+    - https://biobigdata.nju.edu.cn/scplantdb/home <br>
+<br>
+56)	植物单细胞marker genes PlantscRNAdb <br>
+
+
+<br>
 41) 美国农业部（国外种质查询）：<br>
     - https://npgsweb.ars-grin.gov/gringlobal/search <br>
 <br>

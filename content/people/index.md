@@ -15,6 +15,7 @@ sections:
           - Assistant Investigators
           - Research Associate
           - Postdoctoral Associate
+          - Joint PhD Students
           - Ph.D. Candidates
           - Administrative Assistants
           - Research Assistants
@@ -24,7 +25,6 @@ sections:
           - Grad Students
           - Visiting Scholars
           - Alumni
-          - Joint PhD Students
           - Previous Members
       sort_by: Params.last_name
       sort_ascending: true
