@@ -24,6 +24,7 @@ sections:
           - Grad Students
           - Visiting Scholars
           - Alumni
+          - Joint PhD Students
           - Previous Members
       sort_by: Params.last_name
       sort_ascending: true
@@ -39,6 +40,13 @@ sections:
         <center><font size="7"><b> Previous Members</b></font></center>  
         <br>
         
+        **Hongwei Yu**: Ph.D candidate at Nanjing Agricultural University
+
+        **Wenle Li**: Ph.D candidate at Chinese Academy of Forestry
+
+        **Yang Qu**: Ph.D candidate at China Agricultural University
+
+        **Mengzhuo Zheng** Ph.D candidate at Hongkong University
 
         **Xinyu Zhai**: Ph.D candidate at Nanjing Agricultural University
         
