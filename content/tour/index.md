@@ -15,7 +15,7 @@ sections:
           image:
             filename: strawberry-raspberry.png
             filters:
-              brightness: 0.6
+              brightness: 0.8
           position: center
           color: '#17324d'
         link:
