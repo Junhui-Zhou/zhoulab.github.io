@@ -37,7 +37,7 @@ sections:
     content:
       title: ""
       text: |
-        <center><font size="7"><b> Previous Members</b></font></center>  
+        <center><font size="6"><b> Previous Members</b></font></center>  
         <br>
         
         **Hongwei Yu**: Ph.D candidate at Nanjing Agricultural University
@@ -46,7 +46,7 @@ sections:
 
         **Yang Qu**: Ph.D candidate at China Agricultural University
 
-        **Mengzhuo Zheng** Ph.D candidate at Hongkong University
+        **Mengzhuo Zheng**: Ph.D candidate at Hongkong University
 
         **Xinyu Zhai**: Ph.D candidate at Nanjing Agricultural University
         
