@@ -58,9 +58,9 @@ sections:
 
         **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
 
-        **Xia Liang1**: Ph.D candidate at Beijing Forestry University
+        **Xia Liang**: Ph.D candidate at Beijing Forestry University
 
-        **Feijian Sun**: Ph.D candidate at Charles University / Institute of Experimental Botany, Czech Academy of Sciences, Czech Republic
+        **Feijian Sun**: Ph.D candidate at Charles University
 
         **Ruixia Li**: Ph.D candidate at Zhengzhou University
 

@@ -2,7 +2,7 @@
 
 **All academic publications are accessible via Dr. Zhou's ResearchGate: [https://www.researchgate.net/profile/Junhui-Zhou?ev=prf_overview](https://www.researchgate.net/profile/Junhui-Zhou?ev=prf_overview)**
 
-(#: Co-first author; *: Corresponding author)
+#(#: Co-first author; *: Corresponding author)
 
 1. Xiaopeng Li#, Xianyan Han#, Shoucheng Liu#, Qunying Zhang#, Jiyuan Guan#, Mengzhuo Zheng, Yajun Tang, Pengbo Xu, Jianxin Bian, Kui Li, Zhengdong Wang, Houcheng Zhou, Guohui Yang, Hongli Lian*, Hang He*, Junhui Zhou*. (2026). Two telomere-to -telomere genome assemblies and comparisons revealed the conserved “toolkit” genes for sugar accumulation in Rubus genus. Plant Communications, 7(8), 101849. https://doi.org/10.1016/j.xplc.2026.101849. 
 
