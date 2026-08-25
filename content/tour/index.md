@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2026-10-24
 
 type: landing
 
@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the DBSGI Research Group!!
-        content: 'Our research focus on both strawberry and raspberry~ '
-        align: right
+      - title: 👋 Welcome to the DBSGI Research Group!
+        content: 'Our research focuses on both strawberry and raspberry~ '
+        align: left
         background:
           image:
-            filename: strb3.jpg
+            filename: strawberry-raspberry-lab-hero-cartoon.png
             filters:
               brightness: 0.7
           position: center
@@ -30,5 +30,5 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
 ---
