@@ -15,9 +15,9 @@ sections:
           image:
             filename: strawberry-raspberry-lab-hero-cartoon.png
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: center
-          color: '#333'
+          color: '#17324d'
         link:
           icon: graduation-cap
           icon_pack: fas

@@ -52,13 +52,13 @@ sections:
         
         **Yuean Wang**: Ph.D candidate at Chinese Academy of Sciences
 
-        **Ye Liang**: Ph.D candidate at Northwest A&F Universit
+        **Ye Liang**: Ph.D candidate at Northwest A&F University
 
         **Yuanxin Dong**: Ph.D candidate at Northwest A&F University  
 
         **Xiaojie Lin**: Ph.D candidate at Chinese Academy of Sciences
 
-        **Ye Liang**: Ph.D candidate at Northwest A&F University / Chinese Academy of Sciences
+        **Xia Liang**: Ph.D candidate at Beijing Forestry University
 
         **Feijian Sun**: Ph.D candidate at Charles University / Institute of Experimental Botany, Czech Academy of Sciences, Czech Republic
 
