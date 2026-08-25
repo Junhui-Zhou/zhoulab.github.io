@@ -9,13 +9,13 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the DBSGI Research Group
-        content: 'Our research focuses on both strawberry and raspberry ~'
+        content: 'Our research focuses on both strawberry and raspberry...'
         align: left
         background:
           image:
             filename: strawberry-raspberry.png
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
           color: '#17324d'
         link:
