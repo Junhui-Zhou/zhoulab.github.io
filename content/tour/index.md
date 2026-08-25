@@ -13,7 +13,7 @@ sections:
         align: left
         background:
           image:
-            filename: strawberry-raspberry-lab-hero-cartoon.png
+            filename: strawberry-raspberry.png
             filters:
               brightness: 0.8
           position: center
